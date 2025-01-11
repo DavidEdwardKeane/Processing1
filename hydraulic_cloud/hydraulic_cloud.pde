@@ -2,10 +2,10 @@ int squareSize = 20;
 int boardSize = squareSize * 10;
 
 void setup() {
-  size(100, 100);
+  size(110, 110);
   background(0, 50, 0);
   noStroke();
-  fill(200,50,100);
+  fill(200,200,200);
 
   int[][] character = 
   {
