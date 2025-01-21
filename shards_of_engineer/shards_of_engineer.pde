@@ -1,8 +1,3 @@
-// Red    #F25022
-// Green  #7FBA00
-// Blue   #00A4EF
-// Yellow #FFB900
-
 /**
  * Programming Lab 1a - Exercise 1 
  * by David Keane. 
